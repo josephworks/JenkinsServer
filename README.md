@@ -1,5 +1,6 @@
 # JenkinsServer
-### An easy install or use Jenkins server!
+
+## An easy install or use Jenkins server!
 
 To begin, run the following in your terminal: 
 
