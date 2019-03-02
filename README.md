@@ -1,8 +1,9 @@
 # JenkinsServer
-An easy install or use Jenkins server!
+### An easy install or use Jenkins server!
 
 To begin, run the following in your terminal: 
 
 ```sh
-bash start.sh
+git clone https://github.com/josephworks/JenkinsServer.git
+bash ./JenkinsServer/start.sh
 ```
